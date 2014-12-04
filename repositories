@@ -1,0 +1,691 @@
+http://prefix.cc/context
+
+------------------------------------
+------------------------------------
+------------------------------------
+Museum Repos
+------------------------------------
+------------------------------------
+------------------------------------
+
+The British Museum
+http://128.86.231.86/Home/
+
+Europeana Ontotext
+http://europeana.ontotext.com/sparql
+
+
+Europeana Providers
+http://www.europeana.eu/portal/europeana-providers.html
+
+------------------------------------
+------------------------------------
+------------------------------------
+Music Repos
+------------------------------------
+------------------------------------
+------------------------------------
+
+
+------------------------------------
+------------------------------------
+------------------------------------
+Bibliographic Repos
+------------------------------------
+------------------------------------
+------------------------------------
+
+Linking Open Bibliographic data
+http://lobid.org/about
+
+
+
+------------------------------------
+------------------------------------
+------------------------------------
+Personal Repos
+------------------------------------
+------------------------------------
+------------------------------------
+
+Darwins Music
+http://83.212.105.61:10035/repositories/darwinsmusic#
+
+-----------------CATEGORIES-----------------
+dbpedia dumps
+skos categories
+http://downloads.dbpedia.org/3.8/en/contents-all.txt
+
+http://labs.mondeca.com/sparqlEndpointsStatus/
+
+
+
+http://www.brunni.de/searchsparqlendpoints.txt
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+| endpoint                                                                                                                     | accessible |
+=============================================================================================================================================
+| <http://156.35.31.156/sparql>                                                                                                | "no"       |
+| <http://178.18.91.251//openrdf-sesame/repositories/SC>                                                                       | "no"       |
+| <http://202.45.142.113:10035/repositories/agrovoc>                                                                           | "yes"      |
+| <http://202.73.13.50:55824/catalogs/performance/repositories/agrovoc>                                                        | "no"       |
+| <http://202.73.13.50:55824/catalogs/performance/repositories/jita>                                                           | "no"       |
+| <http://212.81.220.68:2020/elviajero>                                                                                        | "no"       |
+| <http://84.205.238.43:2020/sparql>                                                                                           | "no"       |
+| <http://acm.rkbexplorer.com/sparql/>                                                                                         | "no"       |
+| <http://aemet.linkeddata.es/sparql>                                                                                          | "yes"      |
+| <http://affymetrix.bio2rdf.org/sparql>                                                                                       | "yes"      |
+| <http://api.kasabi.com/api/sparql-endpoint-near>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/adelaide-metro/apis/sparql>                                                                   | "no"       |
+| <http://api.kasabi.com/dataset/adventureworks-2008r2lt/apis/sparql>                                                          | "no"       |
+| <http://api.kasabi.com/dataset/aim25omp/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/airlines/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/airports/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/aligaballa/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/archon/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/bbc-music/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/bbc-programmes/apis/sparql>                                                                   | "no"       |
+| <http://api.kasabi.com/dataset/bbc-wildlife/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/bbc/apis/sparql>                                                                              | "no"       |
+| <http://api.kasabi.com/dataset/bergen-open-research-archive/apis/sparql>                                                     | "no"       |
+| <http://api.kasabi.com/dataset/bestbuy-rdfa/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/beyond-book/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/blackberry-bold-9900-batteries/apis/sparql>                                                   | "no"       |
+| <http://api.kasabi.com/dataset/brandweer-amsterdam-amstelland-dispatch-messages/apis/sparql>                                 | "no"       |
+| <http://api.kasabi.com/dataset/bricklink-similar-sets/apis/sparql>                                                           | "no"       |
+| <http://api.kasabi.com/dataset/bricklink/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/brighton-footprints/apis/sparql>                                                              | "no"       |
+| <http://api.kasabi.com/dataset/british-national-bibliography-bnb/apis/sparql>                                                | "no"       |
+| <http://api.kasabi.com/dataset/bruce-whealton-foaf-profile/apis/sparql>                                                      | "no"       |
+| <http://api.kasabi.com/dataset/bryans-training-data/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/business/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/calil-library-data/apis/sparql>                                                               | "no"       |
+| <http://api.kasabi.com/dataset/calling/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/cars/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/cdk-cito/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/chembl-rdf/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/chemicalcontent/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/chempedia-rdf/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/cia-world-fact-book/apis/sparql>                                                              | "no"       |
+| <http://api.kasabi.com/dataset/cia-world-factbook-ng/apis/sparql>                                                            | "no"       |
+| <http://api.kasabi.com/dataset/climb-dataincubator/apis/sparql>                                                              | "no"       |
+| <http://api.kasabi.com/dataset/climb-similar-routes/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/colegios-de-chile/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/contrib-brighton/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/copac-locah-project/apis/sparql>                                                              | "no"       |
+| <http://api.kasabi.com/dataset/countries/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/dbpedia-36/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/dbpedia-core/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/dbpedia-links/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/dbpedia/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/demostracion/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/dendritic-cell-research-dc-research-eu/apis/sparql>                                           | "no"       |
+| <http://api.kasabi.com/dataset/dev8d-2012/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/digital-city-brighton/apis/sparql>                                                            | "no"       |
+| <http://api.kasabi.com/dataset/discogs/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/e1/apis/sparql>                                                                               | "no"       |
+| <http://api.kasabi.com/dataset/e2/apis/sparql>                                                                               | "no"       |
+| <http://api.kasabi.com/dataset/ecco-tcp-eighteenth-century-collections-online-texts/apis/sparql>                             | "no"       |
+| <http://api.kasabi.com/dataset/echo-european-commission-humanitarian-aid-and-civil-protection/apis/sparql>                   | "no"       |
+| <http://api.kasabi.com/dataset/educacion/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/education-ordnance-survey-postcode-linkset/apis/sparql>                                       | "no"       |
+| <http://api.kasabi.com/dataset/education/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/ejemplo/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/ejemplo2/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/ejemplo3/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/ejemplo5/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/elsevier-sponsored-documents/apis/sparql>                                                     | "no"       |
+| <http://api.kasabi.com/dataset/english-heritage/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/english-language-books-listed-printed-book-auction-catalogues-17th-century-holland/apis/spar> | "no"       |
+| <http://api.kasabi.com/dataset/environment/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/eu-who-who/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/eumida/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/eurobarometer-standard/apis/sparql>                                                           | "no"       |
+| <http://api.kasabi.com/dataset/european-election-results/apis/sparql>                                                        | "no"       |
+| <http://api.kasabi.com/dataset/eventseer/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/exquisitely-refined-ipad-3-cases/apis/sparql>                                                 | "no"       |
+| <http://api.kasabi.com/dataset/farmers-market/apis/sparql>                                                                   | "no"       |
+| <http://api.kasabi.com/dataset/federal-reserve-economic-data/apis/sparql>                                                    | "no"       |
+| <http://api.kasabi.com/dataset/finance/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/fixmystreet/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/food/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/foodista/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/gac-similar-works/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/gairola-dev-1/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/games/apis/sparql>                                                                            | "no"       |
+| <http://api.kasabi.com/dataset/genealogy-information/apis/sparql>                                                            | "no"       |
+| <http://api.kasabi.com/dataset/geonames/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/geospecies/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/global-hunger-index/apis/sparql>                                                              | "no"       |
+| <http://api.kasabi.com/dataset/government-art-collection/apis/sparql>                                                        | "no"       |
+| <http://api.kasabi.com/dataset/hampshire-postcodes/apis/sparql>                                                              | "no"       |
+| <http://api.kasabi.com/dataset/hishamtestdataset/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/iati/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/icdb/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/id-test-dataset/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/italian-schools-kasabi/apis/sparql>                                                           | "no"       |
+| <http://api.kasabi.com/dataset/italian-schools/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/italy/apis/sparql>                                                                            | "no"       |
+| <http://api.kasabi.com/dataset/jisc-cetis-project-directory/apis/sparql>                                                     | "no"       |
+| <http://api.kasabi.com/dataset/john-peel-archive/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/john-peel-sessions/apis/sparql>                                                               | "no"       |
+| <http://api.kasabi.com/dataset/jpm-allanbeck-nasa-training/apis/sparql>                                                      | "no"       |
+| <http://api.kasabi.com/dataset/jpm-hs-nasa-training/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/kasabi-data-collector-test/apis/sparql>                                                       | "no"       |
+| <http://api.kasabi.com/dataset/kasabi-directory/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/kasabi-space-training-database/apis/sparql>                                                   | "no"       |
+| <http://api.kasabi.com/dataset/keith-test1/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/keiths-space-training-dataset/apis/sparql>                                                    | "no"       |
+| <http://api.kasabi.com/dataset/languages/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/latc-eu-media/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/latc-linksets/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/latc-metadata/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/lichfield-spending-data/apis/sparql>                                                          | "no"       |
+| <http://api.kasabi.com/dataset/linked-movie-database/apis/sparql>                                                            | "no"       |
+| <http://api.kasabi.com/dataset/linkedgeodata/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/locah/apis/sparql>                                                                            | "no"       |
+| <http://api.kasabi.com/dataset/lotico/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/maomava/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/marc-codes-list/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/marctest/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/medline/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/metoffice-weather-forecasts/apis/sparql>                                                      | "no"       |
+| <http://api.kasabi.com/dataset/monumentos/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/moseley-folk-festival-data/apis/sparql>                                                       | "no"       |
+| <http://api.kasabi.com/dataset/mot-testing-stations/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/mta-new-york-city-transit/apis/sparql>                                                        | "no"       |
+| <http://api.kasabi.com/dataset/musicbrainz-ng/apis/sparql>                                                                   | "no"       |
+| <http://api.kasabi.com/dataset/musicbrainz/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/musicnet/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/myfoaf/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/nasa/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/near/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/new-york-times/apis/sparql>                                                                   | "no"       |
+| <http://api.kasabi.com/dataset/nhs-ae-activity-statistics/apis/sparql>                                                       | "no"       |
+| <http://api.kasabi.com/dataset/nhs-hospital-activity-statistics/apis/sparql>                                                 | "no"       |
+| <http://api.kasabi.com/dataset/nhs-organization/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/nhs-performance-data/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/nokia-lumia-900-case-case-nokia-lumia-900/apis/sparql>                                        | "no"       |
+| <http://api.kasabi.com/dataset/nptdr-rail/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/nra-women/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/nra/apis/sparql>                                                                              | "no"       |
+| <http://api.kasabi.com/dataset/nxp-documentation/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/nxp-products/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/ofertaformativa/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/ontologiaejemplo/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/ookaboo-20120206-beta/apis/sparql>                                                            | "no"       |
+| <http://api.kasabi.com/dataset/open-library-data/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/openflights-airlines/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/openflights-routes/apis/sparql>                                                               | "no"       |
+| <http://api.kasabi.com/dataset/openlylocal/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-linked-data/apis/sparql>                                                      | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-our-airports-linkset/apis/sparql>                                             | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-oxpoints-linkset/apis/sparql>                                                 | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-postcode-renewable-energy-generators-linkset/apis/sparql>                     | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-renewable-energy-generators-linkset/apis/sparql>                              | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-towns-latitude-longitude/apis/sparql>                                         | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-traffic-scotland-linkset/apis/sparql>                                         | "no"       |
+| <http://api.kasabi.com/dataset/ordnance-survey-uk-education-linkset/apis/sparql>                                             | "no"       |
+| <http://api.kasabi.com/dataset/oreilly-opmi/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/our-airports/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/oxpoints-geographic-qrcodes/apis/sparql>                                                      | "no"       |
+| <http://api.kasabi.com/dataset/oxpoints/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/pali-english-lexicon/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/panini-stickers-euro-2012/apis/sparql>                                                        | "no"       |
+| <http://api.kasabi.com/dataset/panini-stickers/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/patents/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/philippines-festival-0/apis/sparql>                                                           | "no"       |
+| <http://api.kasabi.com/dataset/philippines-festival/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/phrendpoints/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/plants-1/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/plos-one/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/pokedex-data-rdf/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/pranto-0/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/prelinger-archives/apis/sparql>                                                               | "no"       |
+| <http://api.kasabi.com/dataset/productdb/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/prueba/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/r4d-aid-data/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/rasika-athukorala/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/reference/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/rendimiento-escolar-chile/apis/sparql>                                                        | "no"       |
+| <http://api.kasabi.com/dataset/renewable-energy-generators/apis/sparql>                                                      | "no"       |
+| <http://api.kasabi.com/dataset/research/apis/sparql>                                                                         | "no"       |
+| <http://api.kasabi.com/dataset/richards-training-data/apis/sparql>                                                           | "no"       |
+| <http://api.kasabi.com/dataset/rnews-sampler/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/safecast-0/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/sanskrit-english-lexicon/apis/sparql>                                                         | "no"       |
+| <http://api.kasabi.com/dataset/schemacache/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/scotland-data/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/scottish-national-parks-and-postcode-areas/apis/sparql>                                       | "no"       |
+| <http://api.kasabi.com/dataset/sembookshelf/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/semiconductor-test-set-2/apis/sparql>                                                         | "no"       |
+| <http://api.kasabi.com/dataset/skills/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/southampton-postcodes/apis/sparql>                                                            | "no"       |
+| <http://api.kasabi.com/dataset/space-exercise/apis/sparql>                                                                   | "no"       |
+| <http://api.kasabi.com/dataset/statistics/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/study/apis/sparql>                                                                            | "no"       |
+| <http://api.kasabi.com/dataset/tekord/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/test-2/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/test-6/apis/sparql>                                                                           | "no"       |
+| <http://api.kasabi.com/dataset/test1/apis/sparql>                                                                            | "no"       |
+| <http://api.kasabi.com/dataset/testdataset/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/testlocations/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/tito/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/toilet-information-sabae-city-fukui-prefecture-japan/apis/sparql>                             | "no"       |
+| <http://api.kasabi.com/dataset/traffic-scotland/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/transport/apis/sparql>                                                                        | "no"       |
+| <http://api.kasabi.com/dataset/turismo-asturias/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/twitter-data-eswc-conference/apis/sparql>                                                     | "no"       |
+| <http://api.kasabi.com/dataset/ubbspecial/apis/sparql>                                                                       | "no"       |
+| <http://api.kasabi.com/dataset/uk-education-geographic-qrcodes/apis/sparql>                                                  | "no"       |
+| <http://api.kasabi.com/dataset/uk-transport-operators/apis/sparql>                                                           | "no"       |
+| <http://api.kasabi.com/dataset/un-hazardous-material-numbers/apis/sparql>                                                    | "no"       |
+| <http://api.kasabi.com/dataset/unitedstatesgeographyowl/apis/sparql>                                                         | "no"       |
+| <http://api.kasabi.com/dataset/uow-archives/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/uow-archives2/apis/sparql>                                                                    | "no"       |
+| <http://api.kasabi.com/dataset/uri/apis/sparql>                                                                              | "no"       |
+| <http://api.kasabi.com/dataset/us-geography/apis/sparql>                                                                     | "no"       |
+| <http://api.kasabi.com/dataset/utpl/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/veille-pearltrees/apis/sparql>                                                                | "no"       |
+| <http://api.kasabi.com/dataset/view/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/void/apis/sparql>                                                                             | "no"       |
+| <http://api.kasabi.com/dataset/whealton-family-genealogy-data/apis/sparql>                                                   | "no"       |
+| <http://api.kasabi.com/dataset/wombra-scottish-technical-standards-section-6-energy/apis/sparql>                             | "no"       |
+| <http://api.kasabi.com/dataset/wordnet-vua/apis/sparql>                                                                      | "no"       |
+| <http://api.kasabi.com/dataset/world-air-travel/apis/sparql>                                                                 | "no"       |
+| <http://api.kasabi.com/dataset/world-geography/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/www2012/apis/sparql>                                                                          | "no"       |
+| <http://api.kasabi.com/dataset/yahoo-geoplanet/apis/sparql>                                                                  | "no"       |
+| <http://api.kasabi.com/dataset/yokohama-attractions/apis/sparql>                                                             | "no"       |
+| <http://api.kasabi.com/dataset/yokohama-city-budget-plan-fy2012/apis/sparql>                                                 | "no"       |
+| <http://api.kasabi.com/dataset/zach-foaf/apis/sparql>                                                                        | "no"       |
+| <http://api.talis.com/stores/abendiken-dev1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/abryan-dev1/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/abucchi-dev1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/adam-dev1/services/sparql>                                                                      | "no"       |
+| <http://api.talis.com/stores/adean-dev1/services/sparql>                                                                     | "no"       |
+| <http://api.talis.com/stores/adw-dev1/services/sparql>                                                                       | "no"       |
+| <http://api.talis.com/stores/adw-dev2/services/sparql>                                                                       | "no"       |
+| <http://api.talis.com/stores/aeaton-dev1/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/airports/services/sparql>                                                                       | "no"       |
+| <http://api.talis.com/stores/ajhirst-dev1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/ajmg-dev1/services/sparql>                                                                      | "no"       |
+| <http://api.talis.com/stores/akumar-dev1/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/alandix-dev1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/amirbs-dev1/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/anikolov-dev1/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/aram-dev1/services/sparql>                                                                      | "no"       |
+| <http://api.talis.com/stores/astilla-dev1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/auth-ieduuc-1/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/auth-nibfqu-1/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/auth-nibfqu-2/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/auth-nibfqu-3/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/auth-nibfqu-4/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/auth-stbaerc-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/auth-stinhcl-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/auth-ukbelhl-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/auth-ukbesmu-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/auth-ukbesuc-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/auth-ukbol-1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/auth-ukbtu-1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/auth-uksshstl-1/services/sparql>                                                                | "no"       |
+| <http://api.talis.com/stores/auth-ukurtpl-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/auth-ukwswcc-1/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/bbc-backstage/services/sparql>                                                                  | "no"       |
+| <http://api.talis.com/stores/bbc-dev1/services/sparql>                                                                       | "no"       |
+| <http://api.talis.com/stores/bbc-wildlife/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/bblfish-dev1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/bdarcus-dev1/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/climb/services/sparql>                                                                          | "no"       |
+| <http://api.talis.com/stores/datagovuk/services/sparql>                                                                      | "no"       |
+| <http://api.talis.com/stores/discogs/services/sparql>                                                                        | "no"       |
+| <http://api.talis.com/stores/eutc-productions/services/sparql>                                                               | "no"       |
+| <http://api.talis.com/stores/fanhubz/services/sparql>                                                                        | "no"       |
+| <http://api.talis.com/stores/gunnbib-digitalmanuskripter/sparql>                                                             | "no"       |
+| <http://api.talis.com/stores/jgoodwin-genealogy/services/sparql>                                                             | "no"       |
+| <http://api.talis.com/stores/kwijibo-dev2/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/kwijibo-dev5/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/massobservation/services/sparql>                                                                | "no"       |
+| <http://api.talis.com/stores/mesh-norwegian/services/sparql>                                                                 | "no"       |
+| <http://api.talis.com/stores/metoffice/services/sparql>                                                                      | "no"       |
+| <http://api.talis.com/stores/moseley/services/sparql>                                                                        | "no"       |
+| <http://api.talis.com/stores/musicbrainz/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/nvd/services/sparql>                                                                            | "no"       |
+| <http://api.talis.com/stores/openlibrary/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/ordnance-survey/services/sparql>                                                                | "no"       |
+| <http://api.talis.com/stores/pbac/services/sparql>                                                                           | "no"       |
+| <http://api.talis.com/stores/pokedex/services/sparql>                                                                        | "no"       |
+| <http://api.talis.com/stores/productdb/services/sparql>                                                                      | "no"       |
+| <http://api.talis.com/stores/rsinger-dev4/services/sparql>                                                                   | "no"       |
+| <http://api.talis.com/stores/schemapedia/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/smcjournals/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/space/services/sparql>                                                                          | "no"       |
+| <http://api.talis.com/stores/theviewfrom/services/sparql>                                                                    | "no"       |
+| <http://api.talis.com/stores/trafficscotland/services/sparql>                                                                | "no"       |
+| <http://api.talis.com/stores/wordnet/services/sparql>                                                                        | "no"       |
+| <http://aseg.cs.concordia.ca/secold/sparqlendpoint>                                                                          | "no"       |
+| <http://bfs.270a.info/sparql>                                                                                                | "yes"      |
+| <http://bibleontology.com/sparql/index.jsp>                                                                                  | "no"       |
+| <http://bibo.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://biocyc.bio2rdf.org/sparql>                                                                                           | "no"       |
+| <http://biolit.rkbexplorer.com/sparql/>                                                                                      | "yes"      |
+| <http://bm.rkbexplorer.com/sparql/>                                                                                          | "no"       |
+| <http://bnb.data.bl.uk/sparql>                                                                                               | "yes"      |
+| <http://budapest.rkbexplorer.com/sparql/>                                                                                    | "yes"      |
+| <http://cas.bio2rdf.org/sparql>                                                                                              | "no"       |
+| <http://castle1.rkbexplorer.com/sparql/>                                                                                     | "no"       |
+| <http://cb.semsol.org/sparql>                                                                                                | "no"       |
+| <http://chebi.bio2rdf.org/sparql>                                                                                            | "no"       |
+| <http://chris.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://citeseer.rkbexplorer.com/sparql/>                                                                                    | "no"       |
+| <http://collection.britishmuseum.org/Sparql>                                                                                 | "no"       |
+| <http://cordis.rkbexplorer.com/sparql/>                                                                                      | "no"       |
+| <http://core.kmi.open.ac.uk/squery>                                                                                          | "no"       |
+| <http://courseware.rkbexplorer.com/sparql/>                                                                                  | "yes"      |
+| <http://cpd.bio2rdf.org/sparql>                                                                                              | "no"       |
+| <http://cr.eionet.europa.eu/sparql>                                                                                          | "yes"      |
+| <http://cr3.eionet.europa.eu/sparql>                                                                                         | "no"       |
+| <http://crime.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://crm.rkbexplorer.com/sparql>                                                                                          | "yes"      |
+| <http://crm.rkbexplorer.com/sparql/>                                                                                         | "yes"      |
+| <http://curriculum.rkbexplorer.com/sparql/>                                                                                  | "yes"      |
+| <http://daejeon.rkbexplorer.com/sparql/>                                                                                     | "yes"      |
+| <http://darmstadt.rkbexplorer.com/sparql/>                                                                                   | "yes"      |
+| <http://data-gov.ie/sparql>                                                                                                  | "no"       |
+| <http://data.allie.dbcls.jp/sparql>                                                                                          | "yes"      |
+| <http://data.archiveshub.ac.uk/sparql>                                                                                       | "yes"      |
+| <http://data.bib.uni-mannheim.de/sparql>                                                                                     | "no"       |
+| <http://data.bibbase.org:2020/sparql>                                                                                        | "no"       |
+| <http://data.bibsys.no/data/query_authority.html>                                                                            | "no"       |
+| <http://data.cnr.it/sparql>                                                                                                  | "no"       |
+| <http://data.cnr.it/sparql-proxy/>                                                                                           | "yes"      |
+| <http://data.fishesoftexas.org/sparql>                                                                                       | "no"       |
+| <http://data.fundacionctic.org/sparql>                                                                                       | "yes"      |
+| <http://data.linkedct.org/sparql>                                                                                            | "yes"      |
+| <http://data.linkedevents.org/sparql>                                                                                        | "yes"      |
+| <http://data.linkedmdb.org/sparql>                                                                                           | "yes"      |
+| <http://data.mminf.univie.ac.at/sparql>                                                                                      | "no"       |
+| <http://data.ngii.go.kr/SPARQL/sparql>                                                                                       | "no"       |
+| <http://data.oceandrilling.org/sparql>                                                                                       | "yes"      |
+| <http://data.open.ac.uk/query>                                                                                               | "yes"      |
+| <http://data.semanticweb.org/sparql>                                                                                         | "yes"      |
+| <http://dati.camera.it/sparql>                                                                                               | "yes"      |
+| <http://datos.bcn.cl/sparql>                                                                                                 | "yes"      |
+| <http://datos.bne.es/sparql>                                                                                                 | "yes"      |
+| <http://dblp.l3s.de/d2r/sparql>                                                                                              | "yes"      |
+| <http://dblp.rkbexplorer.com/sparql/>                                                                                        | "no"       |
+| <http://dbpedia.org/sparql>                                                                                                  | "yes"      |
+| <http://dbtune.org/bbc/peel/sparql/>                                                                                         | "yes"      |
+| <http://dbtune.org/classical/sparql/>                                                                                        | "no"       |
+| <http://dbtune.org/jamendo/sparql/>                                                                                          | "yes"      |
+| <http://dbtune.org/magnatune/sparql/>                                                                                        | "yes"      |
+| <http://dbtune.org/musicbrainz/sparql>                                                                                       | "yes"      |
+| <http://dbtune.org/myspace/sparql/>                                                                                          | "no"       |
+| <http://deepblue.rkbexplorer.com/sparql/>                                                                                    | "yes"      |
+| <http://demo.openlinksw.com/sparql-auth/>                                                                                    | "no"       |
+| <http://demo.openlinksw.com/sparql/>                                                                                         | "no"       |
+| <http://deploy.rkbexplorer.com/sparql/>                                                                                      | "yes"      |
+| <http://dewey.info/sparql.php>                                                                                               | "yes"      |
+| <http://diavgeia.math.auth.gr/sparql>                                                                                        | "yes"      |
+| <http://digitaleconomy.rkbexplorer.com/sparql>                                                                               | "yes"      |
+| <http://digitaleconomy.rkbexplorer.com/sparql/>                                                                              | "yes"      |
+| <http://doc.metalex.eu:8000/sparql/>                                                                                         | "yes"      |
+| <http://dotac.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://dr.bio2rdf.org/sparql>                                                                                               | "no"       |
+| <http://ec.bio2rdf.org/sparql>                                                                                               | "no"       |
+| <http://ecb.270a.info/sparql>                                                                                                | "yes"      |
+| <http://ecowlim.tfri.gov.tw/sparql/query>                                                                                    | "no"       |
+| <http://ecs.rkbexplorer.com/sparql>                                                                                          | "no"       |
+| <http://eculture2.cs.vu.nl:5020/sparql/>                                                                                     | "no"       |
+| <http://el-devtc01.tugraz.at/~ldv/interlinking/endpoint_handler.php>                                                         | "no"       |
+| <http://el.dbpedia.org/sparql>                                                                                               | "yes"      |
+| <http://en.openei.org/sparql>                                                                                                | "yes"      |
+| <http://enaktingpsi.rkbexplorer.com/sparql>                                                                                  | "no"       |
+| <http://enipedia.tudelft.nl/wiki/Special:SparqlExtension>                                                                    | "yes"      |
+| <http://eprints.rkbexplorer.com/sparql/>                                                                                     | "yes"      |
+| <http://epsrc.rkbexplorer.com/sparql>                                                                                        | "yes"      |
+| <http://epsrc.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://era.rkbexplorer.com/sparql/>                                                                                         | "yes"      |
+| <http://eur-lex.publicdata.eu/sparql>                                                                                        | "yes"      |
+| <http://eurecom.rkbexplorer.com/sparql/>                                                                                     | "yes"      |
+| <http://eurostat.linked-statistics.org/sparql>                                                                               | "yes"      |
+| <http://fao.270a.info/sparql>                                                                                                | "yes"      |
+| <http://fintrans.publicdata.eu/sparql>                                                                                       | "no"       |
+| <http://ft.rkbexplorer.com/sparql/>                                                                                          | "yes"      |
+| <http://fun.rkbexplorer.com/sparql>                                                                                          | "no"       |
+| <http://gdlc.rkbexplorer.com/sparql>                                                                                         | "no"       |
+| <http://genbank.bio2rdf.org/sparql>                                                                                          | "yes"      |
+| <http://geneid.bio2rdf.org/sparql>                                                                                           | "yes"      |
+| <http://geo.linkeddata.es/sparql>                                                                                            | "yes"      |
+| <http://gl.bio2rdf.org/sparql>                                                                                               | "no"       |
+| <http://go.bio2rdf.org/sparql>                                                                                               | "no"       |
+| <http://gov.tso.co.uk/business/sparql>                                                                                       | "yes"      |
+| <http://gov.tso.co.uk/coins/sparql>                                                                                          | "yes"      |
+| <http://gov.tso.co.uk/gazettes/sparql>                                                                                       | "yes"      |
+| <http://gov.tso.co.uk/legislation/sparql>                                                                                    | "yes"      |
+| <http://gov.tso.co.uk/transport/sparql>                                                                                      | "yes"      |
+| <http://govwild.org/sparql>                                                                                                  | "no"       |
+| <http://greek-lod.math.auth.gr/fire-brigade/sparql>                                                                          | "no"       |
+| <http://greek-lod.math.auth.gr/intervalue/sparql>                                                                            | "no"       |
+| <http://greek-lod.math.auth.gr/police/sparql>                                                                                | "no"       |
+| <http://harp.cs.wright.edu:8890/sparql>                                                                                      | "no"       |
+| <http://health.data.gov/sparql>                                                                                              | "yes"      |
+| <http://healthdata.gov/bigdata/sparql/kb/sparql>                                                                             | "no"       |
+| <http://hgnc.bio2rdf.org/sparql>                                                                                             | "yes"      |
+| <http://homologene.bio2rdf.org/sparql>                                                                                       | "yes"      |
+| <http://ibm.rkbexplorer.com/sparql/>                                                                                         | "yes"      |
+| <http://id.myopenlink.net/about/id/entity/http/data.archiveshub.ac.uk/sparql>                                                | "no"       |
+| <http://id.myopenlink.net/sparql-auth/>                                                                                      | "no"       |
+| <http://id.myopenlink.net/sparql/>                                                                                           | "yes"      |
+| <http://id.ndl.go.jp/auth/ndla/>                                                                                             | "yes"      |
+| <http://id.ndl.go.jp/auth/ndlsh/>                                                                                            | "yes"      |
+| <http://id.sgcb.mcu.es/sparql>                                                                                               | "yes"      |
+| <http://ieee.rkbexplorer.com/sparql/>                                                                                        | "no"       |
+| <http://imf.270a.info/sparql>                                                                                                | "yes"      |
+| <http://interpro.bio2rdf.org/sparql>                                                                                         | "yes"      |
+| <http://irit.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://iserve.kmi.open.ac.uk/data/execute-query>                                                                            | "yes"      |
+| <http://italy.rkbexplorer.com/sparql>                                                                                        | "yes"      |
+| <http://italy.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://jisc.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://kasabi.com/api/sparql-endpoint-foodista>                                                                             | "no"       |
+| <http://kasabi.com/dataset/chembl-rdf/apis/sparql>                                                                           | "no"       |
+| <http://kasabi.com/dataset/global-hunger-index/apis/sparql>                                                                  | "no"       |
+| <http://kasabi.com/dataset/nxp-documentation/sparql>                                                                         | "no"       |
+| <http://kaunas.rkbexplorer.com/sparql>                                                                                       | "yes"      |
+| <http://kaunas.rkbexplorer.com/sparql/>                                                                                      | "yes"      |
+| <http://kegg.bio2rdf.org/sparql>                                                                                             | "yes"      |
+| <http://kent.zpr.fer.hr:8080/educationalProgram/sparql>                                                                      | "yes"      |
+| <http://kingsley.idehen.net/sparql>                                                                                          | "no"       |
+| <http://kingsley.idehen.net/sparql-auth/>                                                                                    | "no"       |
+| <http://kingsley.idehen.net/sparql/>                                                                                         | "no"       |
+| <http://kisti.rkbexplorer.com/sparql/>                                                                                       | "no"       |
+| <http://knoc.com.ar/caicyt/disciplinas/sparql.php>                                                                           | "yes"      |
+| <http://kwijibo.talis.com/kasabi/eumida/sparql>                                                                              | "no"       |
+| <http://laas.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://lab3.libris.kb.se/sparql>                                                                                            | "no"       |
+| <http://labs.mondeca.com/endpoint/lov>                                                                                       | "yes"      |
+| <http://linked.opendata.cz/sparql>                                                                                           | "yes"      |
+| <http://linkeddata.ge.imati.cnr.it:2020/sparql>                                                                              | "yes"      |
+| <http://linkeddata.openlinksw.com:80/sparql-auth/>                                                                           | "no"       |
+| <http://linkeddata.openlinksw.com:80/sparql/>                                                                                | "yes"      |
+| <http://linkeddata.uriburner.com/about/id/entity/http/data.archiveshub.ac.uk/sparql>                                         | "no"       |
+| <http://linkeddata.uriburner.com/about/id/entity/http/linkeddata.uriburner.com/sparql-auth/>                                 | "no"       |
+| <http://linkeddata.uriburner.com/sparql>                                                                                     | "yes"      |
+| <http://linkeddata.uriburner.com/sparql-auth/>                                                                               | "no"       |
+| <http://linkeddata.uriburner.com/sparql/>                                                                                    | "yes"      |
+| <http://linkeddata.uriburner.com:80/sparql>                                                                                  | "yes"      |
+| <http://linkedgeodata.org/sparql/>                                                                                           | "yes"      |
+| <http://linkedlifedata.com/sparql>                                                                                           | "yes"      |
+| <http://linkedopencommerce.com/sparql>                                                                                       | "no"       |
+| <http://linkedscotland.org/sparql>                                                                                           | "no"       |
+| <http://lisbon.rkbexplorer.com/sparql>                                                                                       | "yes"      |
+| <http://lisbon.rkbexplorer.com/sparql/>                                                                                      | "yes"      |
+| <http://live.dbpedia.org/sparql>                                                                                             | "yes"      |
+| <http://lobid.org/sparql/>                                                                                                   | "yes"      |
+| <http://localhost/openrdf-sesame/repositories/saam-lod>                                                                      | "no"       |
+| <http://localhost:10035/repositories/wordnet-ja>                                                                             | "no"       |
+| <http://localhost:8080/sparql>                                                                                               | "no"       |
+| <http://localhost:8890/sparql>                                                                                               | "no"       |
+| <http://localhost:8890/sparql-auth/>                                                                                         | "no"       |
+| <http://lod.b3kat.de/sparql>                                                                                                 | "yes"      |
+| <http://lod.geodan.nl/BAG/sparql>                                                                                            | "yes"      |
+| <http://lod.geodan.nl/sparql>                                                                                                | "yes"      |
+| <http://lod.gesis.org/thesoz/sparql>                                                                                         | "yes"      |
+| <http://lod.openlinksw.com/sparql>                                                                                           | "yes"      |
+| <http://lod.sztaki.hu/sparql>                                                                                                | "yes"      |
+| <http://logd.tw.rpi.edu/sparql>                                                                                              | "yes"      |
+| <http://lov.okfn.org/endpoint/lov>                                                                                           | "yes"      |
+| <http://lsd.taxonconcept.org/sparql>                                                                                         | "no"       |
+| <http://mapped.spaziodati.eu/sparql>                                                                                         | "no"       |
+| <http://meducator.open.ac.uk/resourcesrestapi/rest/meducator/sparql>                                                         | "no"       |
+| <http://mgi.bio2rdf.org/sparql>                                                                                              | "yes"      |
+| <http://minsky.gsi.dit.upm.es/semanticwiki/index.php/Special:SPARQLEndpoint>                                                 | "no"       |
+| <http://miuras.inf.um.es/sparql>                                                                                             | "no"       |
+| <http://ml370.istge.it:7777/sparql>                                                                                          | "no"       |
+| <http://neuroweb.med.yale.edu:8890/sparql>                                                                                   | "no"       |
+| <http://newcastle.rkbexplorer.com/sparql/>                                                                                   | "yes"      |
+| <http://notube.rkbexplorer.com/sparql>                                                                                       | "no"       |
+| <http://nsf.rkbexplorer.com/sparql/>                                                                                         | "no"       |
+| <http://oai.rkbexplorer.com/sparql/>                                                                                         | "no"       |
+| <http://obo.bio2rdf.org/sparql>                                                                                              | "yes"      |
+| <http://ods-qa.openlinksw.com/sparql-auth/>                                                                                  | "no"       |
+| <http://ods-qa.openlinksw.com/sparql/>                                                                                       | "no"       |
+| <http://ods-qa.openlinksw.com:8890/sparql>                                                                                   | "yes"      |
+| <http://ods-qa.openlinksw.com:8890/sparql-auth/>                                                                             | "no"       |
+| <http://ods-qa.openlinksw.com:8890/sparql/>                                                                                  | "yes"      |
+| <http://omim.bio2rdf.org/sparql>                                                                                             | "yes"      |
+| <http://open.poolparty.punkt.at/PoolParty/SPARQLEndPoint/urn:uuid:1D763C7B-F7F6-0001-7A36-93201D7016CC>                      | "no"       |
+| <http://opencyc.rkbexplorer.com/sparql>                                                                                      | "no"       |
+| <http://opendatacommunities.org/sparql>                                                                                      | "yes"      |
+| <http://openuplabs.tso.co.uk/sparql/gov-education>                                                                           | "no"       |
+| <http://os.rkbexplorer.com/sparql/>                                                                                          | "yes"      |
+| <http://os.services.tso.co.uk/geo/sparql>                                                                                    | "yes"      |
+| <http://pdb.bio2rdf.org/sparql>                                                                                              | "no"       |
+| <http://pfam.bio2rdf.org/sparql>                                                                                             | "no"       |
+| <http://photos.rkbexplorer.com/sparql>                                                                                       | "no"       |
+| <http://pisa.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://platform.uberblic.org/api/v1/sparql>                                                                                 | "no"       |
+| <http://prodom.bio2rdf.org/sparql>                                                                                           | "no"       |
+| <http://prosite.bio2rdf.org/sparql>                                                                                          | "no"       |
+| <http://proxy.uriburner.com/sparql>                                                                                          | "yes"      |
+| <http://pt.dbpedia.org/sparql>                                                                                               | "no"       |
+| <http://pubchem.bio2rdf.org/sparql>                                                                                          | "no"       |
+| <http://pubmed.bio2rdf.org/sparql>                                                                                           | "yes"      |
+| <http://rae2001.rkbexplorer.com/sparql/>                                                                                     | "no"       |
+| <http://rdf.farmbio.uu.se/chembl/sparql/>                                                                                    | "yes"      |
+| <http://rdf.myexperiment.org/sparql>                                                                                         | "yes"      |
+| <http://rdf.myexperiment.org/sparql/>                                                                                        | "yes"      |
+| <http://rdfabout.com/sparql>                                                                                                 | "no"       |
+| <http://reactome.bio2rdf.org/sparql>                                                                                         | "no"       |
+| <http://resex.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://resource.geolba.ac.at/PoolParty/sparql/GeologicTimeScale>                                                            | "yes"      |
+| <http://resource.geolba.ac.at/PoolParty/sparql/GeologicUnit>                                                                 | "yes"      |
+| <http://resource.geolba.ac.at/PoolParty/sparql/lithology>                                                                    | "yes"      |
+| <http://resource.geolba.ac.at/PoolParty/sparql/tectonicunit>                                                                 | "yes"      |
+| <http://revyu.com/sparql>                                                                                                    | "no"       |
+| <http://risks.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://river.styx.org/sparql>                                                                                               | "no"       |
+| <http://rn.bio2rdf.org/sparql>                                                                                               | "no"       |
+| <http://roady.xs4all.nl:28890/sparql-auth/>                                                                                  | "no"       |
+| <http://roma.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://roni.rkbexplorer.com/sparql>                                                                                         | "no"       |
+| <http://roni.rkbexplorer.com/sparql/>                                                                                        | "no"       |
+| <http://satolab.tiu.ac.jp/ld/sample/sparql/>                                                                                 | "yes"      |
+| <http://satolab.tiu.ac.jp/qb/sample/>                                                                                        | "yes"      |
+| <http://semantic.ckan.net/sparql>                                                                                            | "yes"      |
+| <http://semantic.eea.europa.eu/sparql>                                                                                       | "yes"      |
+| <http://semantics.bigcat.unimaas.nl:8000/sparql>                                                                             | "no"       |
+| <http://semantics.eurecom.fr/sparql>                                                                                         | "no"       |
+| <http://semanticweb.cs.vu.nl/europeana/sparql>                                                                               | "no"       |
+| <http://seoul.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://services.data.gov.uk/business/sparql>                                                                                | "no"       |
+| <http://services.data.gov.uk/education/sparql>                                                                               | "yes"      |
+| <http://services.data.gov.uk/environment/sparql>                                                                             | "no"       |
+| <http://services.data.gov.uk/patents/sparql>                                                                                 | "no"       |
+| <http://services.data.gov.uk/reference/sparql>                                                                               | "yes"      |
+| <http://services.data.gov.uk/research/sparql>                                                                                | "no"       |
+| <http://services.data.gov.uk/statistics/sparql>                                                                              | "yes"      |
+| <http://services.data.gov.uk/transport/sparql>                                                                               | "yes"      |
+| <http://services.data.gov/sparql>                                                                                            | "yes"      |
+| <http://setaria.oszk.hu/joseki/sparql>                                                                                       | "yes"      |
+| <http://setaria.oszk.hu/sparql>                                                                                              | "yes"      |
+| <http://sgd.bio2rdf.org/sparql>                                                                                              | "yes"      |
+| <http://smartlink.open.ac.uk/smartlink/sparql>                                                                               | "yes"      |
+| <http://soa4all.isoco.net/luf/sparql>                                                                                        | "yes"      |
+| <http://sonicbanana.cs.wright.edu:8890/sparql>                                                                               | "no"       |
+| <http://southampton.rkbexplorer.com/sparql/>                                                                                 | "yes"      |
+| <http://sparql.data.southampton.ac.uk/>                                                                                      | "yes"      |
+| <http://sparql.linkedopendata.it/cap>                                                                                        | "no"       |
+| <http://sparql.linkedopendata.it/grrp>                                                                                       | "no"       |
+| <http://sparql.linkedopendata.it/grrt>                                                                                       | "no"       |
+| <http://sparql.linkedopendata.it/istat>                                                                                      | "no"       |
+| <http://sparql.linkedopendata.it/los>                                                                                        | "no"       |
+| <http://sparql.linkedopendata.it/musei>                                                                                      | "no"       |
+| <http://sparql.linkedopendata.it/scuole>                                                                                     | "no"       |
+| <http://sparql.neurocommons.org:8890/nsparql/>                                                                               | "no"       |
+| <http://sparql.reegle.info/>                                                                                                 | "yes"      |
+| <http://sparql.yovisto.com/>                                                                                                 | "yes"      |
+| <http://spending.lichfielddc.gov.uk/sparql>                                                                                  | "no"       |
+| <http://srvgal78.deri.ie:8080/openrdf-sesame/repositories/tcga>                                                              | "no"       |
+| <http://sw.unime.it:8890/sparql>                                                                                             | "no"       |
+| <http://taxon.bio2rdf.org/sparql>                                                                                            | "no"       |
+| <http://taxonomy.bio2rdf.org/sparql>                                                                                         | "yes"      |
+| <http://telegraphis.net/data/capitals/sparql>                                                                                | "no"       |
+| <http://telegraphis.net/data/continents/sparql>                                                                              | "no"       |
+| <http://telegraphis.net/data/countries/sparql>                                                                               | "no"       |
+| <http://telegraphis.net/data/currencies/sparql>                                                                              | "yes"      |
+| <http://test.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://test2.rkbexplorer.com/sparql/>                                                                                       | "yes"      |
+| <http://transparency.270a.info/sparql>                                                                                       | "yes"      |
+| <http://twarql.org:8890/sparql>                                                                                              | "no"       |
+| <http://ulm.rkbexplorer.com/sparql/>                                                                                         | "yes"      |
+| <http://uniparc.bio2rdf.org/sparql>                                                                                          | "no"       |
+| <http://unipathway.bio2rdf.org/sparql>                                                                                       | "no"       |
+| <http://uniprot.bio2rdf.org/sparql>                                                                                          | "no"       |
+| <http://uniref.bio2rdf.org/sparql>                                                                                           | "no"       |
+| <http://unists.bio2rdf.org/sparql>                                                                                           | "no"       |
+| <http://unlocode.rkbexplorer.com/sparql/>                                                                                    | "yes"      |
+| <http://uriburner.com/sparql>                                                                                                | "yes"      |
+| <http://uriburner.com:80/sparql>                                                                                             | "yes"      |
+| <http://uriburner.openlinksw.com/sparql>                                                                                     | "yes"      |
+| <http://vocabs.lter-europe.net/PoolParty/sparql/EnvThes>                                                                     | "yes"      |
+| <http://vocabulary.semantic-web.at/PoolParty/sparql/OpenData>                                                                | "yes"      |
+| <http://vocabulary.semantic-web.at/PoolParty/sparql/semweb>                                                                  | "yes"      |
+| <http://void.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://vpn.spaziodati.eu:8890/sparql>                                                                                       | "no"       |
+| <http://web.ods.openlinksw.com/sparql-auth/>                                                                                 | "no"       |
+| <http://webconf.rkbexplorer.com/sparql>                                                                                      | "yes"      |
+| <http://webconf.rkbexplorer.com/sparql/>                                                                                     | "yes"      |
+| <http://webenemasuno.linkeddata.es/sparql>                                                                                   | "yes"      |
+| <http://webscience.rkbexplorer.com/sparql>                                                                                   | "yes"      |
+| <http://webscience.rkbexplorer.com/sparql/>                                                                                  | "yes"      |
+| <http://wiki.rkbexplorer.com/sparql/>                                                                                        | "yes"      |
+| <http://wordnet.jp/sparql>                                                                                                   | "yes"      |
+| <http://wordnet.rkbexplorer.com/sparql/>                                                                                     | "no"       |
+| <http://worldbank.270a.info/sparql>                                                                                          | "yes"      |
+| <http://www.archivesdefrance.culture.gouv.fr/thesaurus/sparql>                                                               | "no"       |
+| <http://www.lotico.com:2020/lotico>                                                                                          | "no"       |
+| <http://www.morelab.deusto.es/joseki/articles>                                                                               | "yes"      |
+| <http://www.open-biomed.org.uk/sparql/endpoint/tcm. >                                                                        | "no"       |
+| <http://www.openlinksw.com/sparql-auth/>                                                                                     | "no"       |
+| <http://www.rdfabout.com/sparql>                                                                                             | "no"       |
+| <http://www.uriburner.com/sparql>                                                                                            | "yes"      |
+| <http://www.zaragoza.es/turruta/sparql>                                                                                      | "yes"      |
+| <http://www4.wiwiss.fu-berlin.de/cordis/sparql>                                                                              | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/dailymed/sparql>                                                                            | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/dblp/sparql>                                                                                | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/diseasome/sparql>                                                                           | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/drugbank/sparql>                                                                            | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/euraxess/sparql>                                                                            | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/eures/sparql>                                                                               | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/eurostat/sparql>                                                                            | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/factbook/sparql>                                                                            | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/gutendata/sparql>                                                                           | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/medicare/sparql>                                                                            | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/sider/sparql>                                                                               | "no"       |
+| <http://www4.wiwiss.fu-berlin.de/stitch/sparql>                                                                              | "no"       |
+| <http://zbw.eu/beta/sparql>                                                                                                  | "no"       |
+| <http://zhishi.me/sparql>                                                                                                    | "no"       | 
+---------------------------------------------------------------------------------------------------------------------------------------------
+
